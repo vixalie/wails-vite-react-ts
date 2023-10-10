@@ -1,0 +1,7 @@
+{
+  "name": "wails-vite-react-ts",
+  "shortname": "vite-react-ts",
+  "author": "Vixalie <vixalie@outlook.com>",
+  "description": "A template for creating a Wails application with Vite and React, support TypeScript.",
+  "helpurl": "https://github.com/vixalie/wails-vite-react-ts"
+}
